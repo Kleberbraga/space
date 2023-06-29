@@ -219,6 +219,12 @@ footer a {
         top: 0;
     }
 
+    #about img {
+        width: 400px;
+        height: 200px;
+        margin-top: 90px;
+        border-radius: 30px;
+    }
 
 
 }
