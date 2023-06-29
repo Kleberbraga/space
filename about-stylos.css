@@ -206,6 +206,19 @@ footer a {
 
    
 
+    header{
+        background-image: url(img/vecteezy_black-background-with-white-and-orange-stars_107428642.jpg); 
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        text-align: center;
+        align-items: center;
+        height: 100px;
+        padding: 0;
+      
+        top: 0;
+    }
+
 
 
 }
