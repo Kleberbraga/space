@@ -243,5 +243,9 @@ font-size: 15px;
   border-radius: 5px;
 }
 
+.logo{
+  width: 200px;
+  height: 65px;
+}
 
 }

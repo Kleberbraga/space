@@ -225,7 +225,10 @@ footer a {
         margin-top: 90px;
         border-radius: 30px;
     }
-
+    .logo{
+        width: 200px;
+        height: 65px;
+    }
 
 }
   
